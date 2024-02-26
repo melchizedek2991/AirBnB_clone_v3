@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Olayiwola Yunus Abayomi- [Github](https://github.com/Yuntech1) / [Twitter](https://twitter.com/bayohorlayiwola)  
-Ayodele  - [Github](https://github.com/) / [Twitter](https://twitter.com/)
+Ayodele Ayomidotun - [Github](https://github.com/) / [Twitter](https://twitter.com/)
 
 Second part of Airbnb: Joann Vuong
 ## License
